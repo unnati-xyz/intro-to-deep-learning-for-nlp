@@ -2,7 +2,7 @@
 
 ### Requirements to run the notebooks
 
-* Anaconda
+* Anaconda for python 2
 * Keras
 
 ### Link to the [slides](https://speakerdeck.com/unnati_xyz/introduction-to-deep-learning-and-nlp-pydata-london-2016) 
