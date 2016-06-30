@@ -1,4 +1,4 @@
-## PyData London 2016 - Introduction to Deep Learning and NLP
+##Introduction to Deep Learning and NLP
 
 ### Requirements to run the notebooks
 
